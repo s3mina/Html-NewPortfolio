@@ -186,3 +186,134 @@ nav{
   /* color: #969697; */
   text-align: center;
 }
+
+/* .skills{
+  height: 450px;
+}
+
+.tools{
+  width: 40%;
+  float: left;
+  height: 450px;
+  margin-left: 150px;
+}
+
+#one{
+  margin-left: 180px;
+}
+
+.tools h1{
+  border-left: 2px solid #b1c2d0;
+  padding-left: 10px;
+  margin-top: 60px;
+  font-family: Arial;
+  font-size: 28px;
+}
+
+
+.bar-one{
+	width: 50%;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.Wordpress{
+	width: 100%;
+	padding-top: 8px;
+	padding-bottom: 10px;
+	background-color: #0db599;
+
+}
+
+.Html-Css{
+	width: 70%;
+	padding-top: 8px;
+	padding-bottom: 10px;
+	background-color: #0db599;
+
+}
+
+
+.Web-Design{
+	width: 80%;
+	padding-top: 8px;
+	padding-bottom: 10px;
+	background-color: #0db599;
+
+
+}
+
+.bar-graph{
+	margin-top: 30px;
+}
+
+
+.Photography{
+	width: 85%;
+	padding-top: 8px;
+	padding-bottom: 10px;
+	background-color: #0db599; */
+
+
+
+.more h1{
+  border-left: 2px solid #b1c2d0;
+  padding-left: 10px;
+  margin-top: 60px;
+  font-size: 32px;
+  font-family: Arial;
+  margin-left: 100px;
+}
+
+.more{
+  margin-top: 90px;
+  /* border: 1px solid black; */
+}
+
+.more-one{
+  border: 1px solid black;
+  margin-top: 20px;
+  float: left;
+  height: 200px;
+  width: 18%;
+  margin-left: 100px;
+}
+
+.more-one h2{
+  font-size: 19px;
+  font-family: Arial;
+  font-weight: light;
+  padding-left: 40px;
+}
+
+.more-one h4{
+  font-size: 19px;
+  font-family: Arial;
+  font-weight: light;
+  padding-left: 40px;
+  font-weight: lighter;
+}
+
+.more-one-text{
+  /* border: 2px solid black; */
+  letter-spacing: 1px;
+  font-family: Arial;
+  color: #4e5255;
+  padding-left: 40px;
+  background-color: #B1c2d0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.more button{
+  margin-top: 60px;
+  margin-left: 100px;
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #b1c2d0;
+  border-radius: none;
+  border: 1px;
+  font-weight: bold;
+}
